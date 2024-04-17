@@ -69,7 +69,5 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 ## License
 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 Feel free to adjust any details or add more sections as needed!
