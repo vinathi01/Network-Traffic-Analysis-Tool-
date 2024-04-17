@@ -29,39 +29,3 @@ The script will generate synthetic network traffic data and display various stat
 
 Additionally, it will visualize the network traffic patterns and anomalies using matplotlib and seaborn.
 
-
-Contributing
-
-
-You can customize the following parameters in the generate_network_traffic_data function to generate different types and quantities of synthetic network traffic data:
-
-num_samples: Number of samples to generate.
-anomaly_types: List of anomaly types including 'Normal', 'Intrusion Attempt', 'Port Scanning', and 'DDoS Attack'.
-
-## Output
-
-
-The script outputs the following information:
-
-Missing values in the generated DataFrame.
-Summary statistics of the generated data.
-Number of anomalies detected.
-Distribution of labels (normal vs. anomalies).
-Distribution of anomaly types.
-Details of each anomaly detected.
-It also visualizes the network traffic patterns and anomalies through various plots:
-
-Network traffic by protocol.
-Distribution of packet lengths.
-Scatter plot of packet length vs source port.
-Scatter plot of packet length vs destination port.
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-Feel free to adjust any details or add more sections as needed!
