@@ -23,6 +23,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
+Run the script (network_traffic_generator.py).
+
+The script will generate synthetic network traffic data and display various statistics including missing values, summary statistics, counts of anomalies, distribution of labels and anomaly types, and details of each anomaly.
+
+Additionally, it will visualize the network traffic patterns and anomalies using matplotlib and seaborn.
 
 
 
@@ -32,8 +37,7 @@ import seaborn as sns
 
 
 
-
-Contributing
+## Contributing
 
 
 You can customize the following parameters in the generate_network_traffic_data function to generate different types and quantities of synthetic network traffic data:
