@@ -12,7 +12,16 @@ This Python script generates synthetic network traffic data and visualizes it us
 
 ## Usage
 
-
+1. Import the required libraries:
+```python
+import pandas as pd
+import numpy as np
+import random
+from faker import Faker
+from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
 
 
 Run the script (network_traffic_generator.py).
